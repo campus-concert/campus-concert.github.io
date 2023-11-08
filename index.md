@@ -334,4 +334,4 @@ There are a number of simple enhancements you can make to the system to become b
 
 ## Team
 
-BowFolios is designed, implemented, and maintained by [Philip Johnson](https://philipmjohnson.org) and [Cam Moore](https://cammoore.github.io/).
+Campus Concert is designed, implemented, and maintained by [Gerald Huff](https://codecraftsperson.github.io), [Matthew Kouchi](https://matthewtkouchi.github.io/), [Josiah Liu](https://josiahsliu.github.io), [Einar Midthun](https://einar-m.github.io/), [James Phan](https://jamesgphan.github.io) and [Nicholas Takamatsu](https://nicktaka.github.io/).
