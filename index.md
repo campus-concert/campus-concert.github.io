@@ -2,8 +2,9 @@
 
 ## Overview
 
-Campus Concert is a [...] web application that provides pages to view and (in some cases) modify profiles, projects, and interests. It illustrates various technologies useful to ICS software engineering students, including:
+Campus Concert is a web application that allows musicians on campus to connect with each other. It gives people the possibility to create  own pages, indicating which instruments they play, their skill level and their musical preferences. After you're logged in, you can browse other musicians profiles and filter them by preferences, instruments and skill.
 
+The application is based on the following technologies:
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
@@ -12,7 +13,7 @@ Campus Concert is a [...] web application that provides pages to view and (in so
 
 ## User Guide
 
-This section provides a walkthrough of the Campus Concert user interface and its capabilities.
+This section will provide a walkthrough of the Campus Concert user interface and its capabilities.
 
 ## Developer Guide
 
@@ -48,15 +49,7 @@ Coming soon.
 
 ## Development History
 
-The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
-
-* Development consists of a sequence of Milestones.
-* Each Milestone is specified as a set of tasks.
-* Each task is described using a GitHub Issue, and is assigned to a single developer to complete.
-* Tasks should typically consist of work that can be completed in 2-4 days.
-* The work for each task is accomplished with a git branch named "issue-XX", where XX is replaced by the issue number.
-* When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
-* The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
+The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices.
 
 The following sections document the development history of BowFolios.
 
