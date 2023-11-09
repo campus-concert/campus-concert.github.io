@@ -25,7 +25,6 @@ This application aims to provide users the following features:
 This section will provide a walkthrough of the Campus Concert user interface and its capabilities.
 
 ### Landing Page (mockup)
-The landing page is presented to users when they first visit the site. It provides a brief overview and purpose of the app.
 
 ![](images/mockup-landing.png)
 
