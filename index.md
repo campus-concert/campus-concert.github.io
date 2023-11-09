@@ -1,22 +1,39 @@
-# Campus Concert
+## Table of contents
+
+* [Overview](#overview)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
+* [Development History](#development-history)
+* [Deployment](#deployment)
+* [Community Feedback](#community-feedback)
+* [Team](#team)
 
 ## Overview
 
-Campus Concert is a web application that allows musicians on campus to connect with each other. It gives people the possibility to create their own  profile, indicating which instruments they play, their skill level and their musical preferences. After you're logged in, you can browse other musicians profiles and filter them by preferences, instruments and skill.
+Campus Concert is a web application that allows musicians on campus to connect with each other. Students with musical talents will have the ability to easily discover like-minded peers, form connections based on shared musical tastes and abilities, and collaboratively engage in musical activities. 
 
-The application is based on the following technologies:
-* [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
-* [React](https://reactjs.org/) for component-based UI implementation and routing.
-* [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
-* [Uniforms](https://uniforms.tools/) for React form design and display.
-
+This application aims to provide users the following features:
+* Personalized profiles highlighting their instrumentation, musical tastes, and capabilities.
+* The ability to browse through profiles of other musicians with filtering options based on musical tastes, capabilities, instruments, etc.
+* The ability to create and schedule "concerts" or music sessions, including details like location, time, musical type, desired capabilities, and organizer contact information.
+* In-app messaging or contact features to facilitate communication between users.
 
 ## User Guide
 
 This section will provide a walkthrough of the Campus Concert user interface and its capabilities.
 
-## Developer Guide
+### Landing Page (mockup)
+The landing page is presented to users when they first visit the site. It provides a brief overview and purpose of the app.
 
+### User Home Page (mockup)
+
+### User Profile Page (mockup)
+
+### Browse Profiles Page (mockup)
+
+### Admin Home Page (mockup)
+
+## Developer Guide
 
 ### Installation
 
@@ -24,7 +41,7 @@ First, [install Meteor](https://www.meteor.com/install).
 
 Second, clone the repository [Campus Concert](https://github.com/campus-consert/campus-consert) to your local computer.
 
-cd into the campus-concert/app directory and install libraries with:
+Third, cd into the campus-concert/app directory and install libraries with:
 
 ```
 $ meteor npm install
@@ -38,41 +55,48 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
-### Application Design
+### Application Technologies
 
-Campus Concert is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/).
-
-### Data model
-
-Coming soon.
+The application is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and the following technologies:
+* [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
+* [React](https://reactjs.org/) for component-based UI implementation and routing.
+* [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
+* [Uniforms](https://uniforms.tools/) for React form design and display.
 
 ## Development History
 
-The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices.
-
-The following sections document the development history of BowFolios.
-
 ### Milestone 1:
 
-[Github Milestone 1 project board](https://github.com/orgs/campus-concert/projects/2)
+[Milestone 1 Project Board](https://github.com/orgs/campus-concert/projects/2)
 
-Requirements for milestone 1:
 - The system is deployed to Digital Ocean
 - Landing page
 - Mockups of at least four other pages
 
-
 ### Milestone 2:
 
-TBD.
+<b><i>TBD.</i></b>
 
-## Milestone 3:
+### Milestone 3:
 
-TBD.
+<b><i>TBD.</i></b>
+
+## Deployment:
+
+<b><i>TBD.</i></b>
+
+## Community Feedback:
+
+<b><i>TBD.</i></b>
 
 ## Team
 
-Campus Concert is designed, implemented, and maintained by [Gerald Huff](https://codecraftsperson.github.io), [Matthew Kouchi](https://matthewtkouchi.github.io/), [Josiah Liu](https://josiahsliu.github.io), [Einar Midthun](https://einar-m.github.io/), [James Phan](https://jamesgphan.github.io) and [Nicholas Takamatsu](https://nicktaka.github.io/).
+[Team Contract](https://docs.google.com/document/d/1Ckn2tzphzKtFnbybxNjpLsFNhzwq6GbyBl7eKxhJxuA/edit?usp=sharing)
 
-### Team contract
-[Link to the team contract](https://docs.google.com/document/d/1Ckn2tzphzKtFnbybxNjpLsFNhzwq6GbyBl7eKxhJxuA/edit?usp=sharing)
+Campus Concert is designed, implemented, and maintained by
+* [Gerald Huff](https://codecraftsperson.github.io)
+* [Matthew Kouchi](https://matthewtkouchi.github.io/)
+* [Josiah Liu](https://josiahsliu.github.io)
+* [Einar Midthun](https://einar-m.github.io/)
+* [James Phan](https://jamesgphan.github.io)
+* [Nicholas Takamatsu](https://nicktaka.github.io/)
