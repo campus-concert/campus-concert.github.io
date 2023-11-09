@@ -30,6 +30,7 @@ The landing page is presented to users when they first visit the site. It provid
 ![](images/mockup-landing.png)
 
 ### User Home Page (mockup)
+![](images/mockup-user-landing.png)
 
 ### User Profile Page (mockup)
 
