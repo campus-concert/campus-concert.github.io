@@ -2,10 +2,9 @@ title: Campus Concert
 description: A web application connecting musicians on campus
 google_analytics:
 show_downloads: false
-theme: just-the-docs
+theme: jekyll-theme-cayman
 github:
   is_project_page: true
   repository_url: https://github.com/campus-concert/campus-concert
 gems:
   - jekyll-mentions
-  - "just-the-docs"
