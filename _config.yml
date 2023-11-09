@@ -8,4 +8,4 @@ github:
   repository_url: https://github.com/campus-concert/campus-concert
 gems:
   - jekyll-mentions
-  - just-the-docs
+  - "just-the-docs"
