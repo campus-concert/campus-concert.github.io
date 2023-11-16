@@ -90,7 +90,7 @@ The application is based upon [meteor-application-template-react](https://ics-so
 
 ## Deployment:
 
-https://campus-concert.com/
+[https://campus-concert.com/](https://campus-concert.com/)
 
 ## Community Feedback:
 
