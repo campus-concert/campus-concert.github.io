@@ -27,33 +27,41 @@ This application aims to provide users the following features:
 This section will provide a walkthrough of the Campus Concert user interface and its capabilities.
 
 ### Landing Page
-The welcome page. Allows new users to sign up, and existing users to log in.
+The welcome page. Allows new users to sign up, and existing users to log in.<br>
+[campus-concert.com/](https://campus-concert.com/)
 ![](images/landing.png)
 
 ### User Home Page
-Displays the options available to the user.
+Displays the options available to the user.<br>
+[/userhome](https://campus-concert.com/userhome)
 ![](images/userhome.png)
 
 ### User Profile Page
 #### Create user profile
-New users need to create a profile before starting to use the app.
+New users need to create a profile before starting to use the app.<br>
+[/createuser](https://campus-concert.com/createuser)
 ![](images/createuser.png)
 #### View user profile
-Users can view their own profile.
+Users can view their own profile.<br>
+[/userprofile](https://campus-concert.com/userprofile)
 ![](images/viewuser.png)
 #### Edit user profile
-Users can edit their own profile.
+Users can edit their own profile.<br>
+(This URL uses the current profile ID. Access this page by clicking "edit" when viewing own profile.)
 ![](images/edituser.png)
 
 ### Browse Profiles Page
 Users can browse other users' profiles.
+[/browse-all-profiles](https://campus-concert.com/browse-all-profiles)
 ![](images/browseprofiles.png)
 
 Users can enlarge other users' profiles and send them messages
+(This URL uses a profiles ID. Access this page by clicking "View Details" on a profile.)
 ![](images/viewprofile.png)
 
 ### Admin Home Page
 More admin features will be added in the future.
+[/adminhome](https://campus-concert.com/adminhome)
 ![](images/adminhome.png)
 
 ## Developer Guide
