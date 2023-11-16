@@ -1,7 +1,7 @@
 # Campus Concert
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Check out the app here: [campus-consert.com](https://campus-concert.com/)
+Check out the app here: [campus-concert.com](https://campus-concert.com/)
 ## Table of contents
 
 * [Overview](#overview)
