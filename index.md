@@ -1,5 +1,7 @@
 # Campus Concert
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Check out the app here: [campus-consert.com](https://campus-concert.com/)
 ## Table of contents
 
 * [Overview](#overview)
@@ -24,18 +26,35 @@ This application aims to provide users the following features:
 
 This section will provide a walkthrough of the Campus Concert user interface and its capabilities.
 
-### Landing Page (mockup)
+### Landing Page
+The welcome page. Allows new users to sign up, and existing users to log in.
+![](images/landing.png)
 
-![](images/mockup-landing.png)
+### User Home Page
+Displays the options available to the user.
+![](images/userhome.png)
 
-### User Home Page (mockup)
-![](images/mockup-user-landing.png)
+### User Profile Page
+#### Create user profile
+New users need to create a profile before starting to use the app.
+![](images/createuser.png)
+#### View user profile
+Users can view their own profile.
+![](images/viewuser.png)
+#### Edit user profile
+Users can edit their own profile.
+![](images/edituser.png)
 
-### User Profile Page (mockup)
+### Browse Profiles Page
+Users can browse other users' profiles.
+![](images/browseprofiles.png)
 
-### Browse Profiles Page (mockup)
+Users can enlarge other users' profiles and send them messages
+![](images/viewprofile.png)
 
-### Admin Home Page (mockup)
+### Admin Home Page
+More admin features will be added in the future.
+![](images/adminhome.png)
 
 ## Developer Guide
 
