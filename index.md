@@ -90,7 +90,7 @@ The application is based upon [meteor-application-template-react](https://ics-so
 
 ## Deployment:
 
-<b><i>TBD.</i></b>
+https://campus-concert.com/
 
 ## Community Feedback:
 
