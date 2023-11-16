@@ -39,7 +39,7 @@ Displays the options available to the user.<br>
 ### User Profile Page
 #### Create user profile
 New users need to create a profile before starting to use the app.<br>
-[/createuser](https://campus-concert.com/createuser)
+(Access this page by signing up from the landing)
 ![](images/createuser.png)
 #### View user profile
 Users can view their own profile.<br>
@@ -51,16 +51,17 @@ Users can edit their own profile.<br>
 ![](images/edituser.png)
 
 ### Browse Profiles Page
-Users can browse other users' profiles.
+Users can browse other users' profiles.<br>
 [/browse-all-profiles](https://campus-concert.com/browse-all-profiles)
 ![](images/browseprofiles.png)
 
-Users can enlarge other users' profiles and send them messages
-(This URL uses a profiles ID. Access this page by clicking "View Details" on a profile.)
+Users can enlarge other users' profiles and send them messages<br>
+(This URL uses a profile's ID. Access this page by clicking "View Details" on a profile.)
 ![](images/viewprofile.png)
 
 ### Admin Home Page
-More admin features will be added in the future.
+More admin features will be added in the future.<br>
+(Note: you must be logged in as an admin to access this page)<br>
 [/adminhome](https://campus-concert.com/adminhome)
 ![](images/adminhome.png)
 
