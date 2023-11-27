@@ -118,6 +118,7 @@ The application is based upon [meteor-application-template-react](https://ics-so
 [Milestone 3 Project Board](https://github.com/orgs/campus-concert/projects/4)
 
 - Implement functionalities to improve user experience
+- Clean up
 
 ## Deployment:
 
