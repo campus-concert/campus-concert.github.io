@@ -111,11 +111,13 @@ The application is based upon [meteor-application-template-react](https://ics-so
 [Milestone 2 Project Board](https://github.com/orgs/campus-concert/projects/3)
 
 - Create more pages
-- Implement functionalities to improve user experience
+- Create tests
 
 ### Milestone 3:
 
-<b><i>TBD.</i></b>
+[Milestone 3 Project Board](https://github.com/orgs/campus-concert/projects/4)
+
+- Implement functionalities to improve user experience
 
 ## Deployment:
 
