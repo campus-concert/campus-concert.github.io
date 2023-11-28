@@ -60,6 +60,20 @@ Users can enlarge other users' profiles and send them messages<br>
 (This URL uses a profile's ID. Access this page by clicking "View Details" on a profile.)
 ![](images/viewprofile.png)
 
+### Create Concert Page
+Users can create concerts.<br>
+[/create-concert](https://campus-concert.com/create-concert)
+![](images/createconcert.png)
+
+### Browse Concerts Page
+Users can browse all concerts.<br>
+[/browse-all-concerts](https://campus-concert.com/browse-all-concerts)
+![](images/browseconcerts.png)
+
+Users can enlarge concerts<br>
+(This URL uses a concert's ID)
+![](images/concertdetails.png)
+
 ### Admin Home Page
 More admin features will be added in the future.<br>
 (Note: you must be logged in as an admin to access this page)<br>
