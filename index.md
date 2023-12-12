@@ -33,6 +33,7 @@ The landing page serves as the initial webpage that users encounter. It briefly 
 
 ### Sign in and Sign up
 The sign-up feature enables new users to create an account using an email and password. Returning users can access their accounts through the sign-in feature by entering their registered email and password.<br>
+![](images/signin.png)
 
 ### Create Profile
 After successfully registering an account, new users are directed to this page to input profile information, including a name, profile picture, description, their musical preferences and instrumentation.<br>
@@ -64,9 +65,11 @@ Users can post and share music sessions called "Concerts." Within these posts, u
 
 ### My Concerts
 The My Concerts page displays all Concerts created by the user.<br>
+![](images/myconcerts.png)
 
 ### Edit Concert
 Users can easily update the information and add new details to their Concert posts or remove them entirely.<br>
+![](images/editconcert.png)
 
 ### Browse Concerts Page
 On the Browse Concerts page, users can explore other users' Concerts, which they can seamlessly navigate through by applying filters to refine their search.<br>
@@ -74,13 +77,15 @@ On the Browse Concerts page, users can explore other users' Concerts, which they
 
 #### View Concert
 By clicking on a Concert card, users can enlarge other users' Concert posts to view more details.<br>
-![](images/concertdetails.png)
+![](images/viewconcert.png)
 
 ### Bookmarked Concerts
 Users can bookmark Concerts for future reference by clicking on the star icon within a Concert post. They can access and manage their bookmarks directly on this page.<br>
+![](images/bookmarks.png)
 
 ### Contact Form
 The contact form serves as a convenient and secure means for users to reach out to our team. By filling out the form, users can submit inquiries, feedback, or requests.<br>
+![](images/contact.png)
 
 ### Admin Home Page
 The admin home page displays an interface that offers easy navigation to various admin-exclusive functionalities.<br>
@@ -88,9 +93,12 @@ The admin home page displays an interface that offers easy navigation to various
 
 ### Admin: Browse Profiles and Concerts
 These pages are nearly identical to user-side Browse Profiles and Browse Concerts pages. However, administrators have the authority to edit details for all user profiles and Concert posts.<br>
+![](images/adminbrowseprofiles.png)
+![](images/adminbrowseconcerts.png)
 
 ### View User Comments
 The View User Comments page is the designated space where administrators can access and review the contact form submissions.<br>
+![](images/usercomments.png)
 
 ## Developer Guide
 
