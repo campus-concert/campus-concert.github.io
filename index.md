@@ -21,7 +21,6 @@ This application aims to provide users the following features:
 * Personalized profiles highlighting their instrumentation, musical tastes, and capabilities.
 * The ability to browse through profiles of other musicians with filtering options based on musical tastes, capabilities, instruments, etc.
 * The ability to create and schedule "concerts" or music sessions, including details like location, time, musical type, desired capabilities, and organizer contact information.
-* In-app messaging or contact features to facilitate communication between users.
 
 ## User Guide
 
