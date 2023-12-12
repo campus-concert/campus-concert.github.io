@@ -159,7 +159,26 @@ The application is based upon [meteor-application-template-react](https://ics-so
 
 ## Community Feedback:
 
-<b><i>TBD.</i></b>
+<blockquote>
+    <p>The website is well designed and easy to navigate and use. I think it would be good for new artists to connect and for musicians and hobbyist to find small artists. I think the website just falls short on a message function to other profiles.</p>
+    <div style="text-align: right">– Anonymous </div>
+</blockquote>
+<blockquote>
+    <p>Solid application. It falls short on the amount of instruments to choose from, some instruments could include the violin, flute, trombone, etc. The platform is good for connecting with other musicians with similar interests. It falls short on the variety of instruments and music tastes. </p>
+    <div style="text-align: right">– Joshua G. </div>
+</blockquote>
+<blockquote>
+    <p>I don't have any pointers. I think it is a good website and user-friendly.</p>
+    <div style="text-align: right">– Amalie </div>
+</blockquote>
+<blockquote>
+    <p>It was okay, nothing too amazing or terrible. It seems like it is minimalistic with a simple purpose, and it does its job.</p>
+    <div style="text-align: right">– Anonymous </div>
+</blockquote>
+<blockquote>
+    <p>Using Campus Concert was nice. It's great for connecting with fellow music enthusiasts  and discovering local concerts in school. It could improve user guidance for certain features but thankfully the website worked correctly.</p>
+    <div style="text-align: right">– Cristian M. </div>
+</blockquote>
 
 ## Team
 
