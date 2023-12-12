@@ -55,7 +55,7 @@ On the Browse Profiles page, users can discover a diverse range of profiles, whi
 ![](images/browseprofiles.png)
 
 ### View Profile
-By clicking on a profile card, users can expand the details of other users' profiles to send messages or view their ongoing Concerts.<br>
+By clicking on a profile card, users can expand the details of other users' profiles to view their concerts.<br>
 ![](images/viewprofile.png)
 
 ### Create Concert
