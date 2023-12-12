@@ -28,57 +28,69 @@ This application aims to provide users the following features:
 This section will provide a walkthrough of the Campus Concert user interface and its capabilities.
 
 ### Landing Page
-The welcome page. Allows new users to sign up, and existing users to log in.<br>
-[campus-concert.com/](https://campus-concert.com/)
+The landing page serves as the initial webpage that users encounter. It briefly describes the features of the web app, and allows usrs to log in or register an account.<br>
 ![](images/landing.png)
 
+### Sign in and Sign up
+The sign-up feature enables new users to create an account using an email and password. Returning users can access their accounts through the sign-in feature by entering their registered email and password.<br>
+
+### Create Profile
+After successfully registering an account, new users are directed to this page to input profile information, including a name, profile picture, description, their musical preferences and instrumentation.<br>
+![](images/createuser.png)
+
 ### User Home Page
-Displays the options available to the user.<br>
-[/userhome](https://campus-concert.com/userhome)
+The home page welcomes users and displays an interface that offers easy navigation to various functionalities.<br>
 ![](images/userhome.png)
 
-### User Profile Page
-#### Create user profile
-New users need to create a profile before starting to use the app.<br>
-(Access this page by signing up from the landing)
-![](images/createuser.png)
-#### View user profile
-Users can view their own profile.<br>
-[/userprofile](https://campus-concert.com/userprofile)
+### My Profile
+The My Profile page showcases how a user's profile appears to others within the platform. It features a link for users to make edits and customize their profile.<br>
 ![](images/viewuser.png)
-#### Edit user profile
-Users can edit their own profile.<br>
-(This URL uses the current profile ID. Access this page by clicking "edit" when viewing own profile.)
+
+### Edit Profile
+Users can easily update their information, add new details, or modify their profile picture.<br>
 ![](images/edituser.png)
 
-### Browse Profiles Page
-Users can browse other users' profiles.<br>
-[/browse-all-profiles](https://campus-concert.com/browse-all-profiles)
+### Browse All Profiles
+On the Browse Profiles page, users can discover a diverse range of profiles, which they can seamlessly navigate through by applying filters to refine their search.<br>
 ![](images/browseprofiles.png)
 
-Users can enlarge other users' profiles and send them messages<br>
-(This URL uses a profile's ID. Access this page by clicking "View Details" on a profile.)
+### View Profile
+By clicking on a profile card, users can expand the details of other users' profiles to send messages or view their ongoing Concerts.<br>
 ![](images/viewprofile.png)
 
-### Create Concert Page
-Users can create concerts.<br>
-[/create-concert](https://campus-concert.com/create-concert)
+### Create Concert
+Users can post and share music sessions called "Concerts." Within these posts, users can define the session's details such as location, time, genres and instruments involved.<br>
 ![](images/createconcert.png)
 
+### My Concerts
+The My Concerts page displays all Concerts created by the user.<br>
+
+### Edit Concert
+Users can easily update the information and add new details to their Concert posts or remove them entirely.<br>
+
 ### Browse Concerts Page
-Users can browse all concerts.<br>
-[/browse-all-concerts](https://campus-concert.com/browse-all-concerts)
+On the Browse Concerts page, users can explore other users' Concerts, which they can seamlessly navigate through by applying filters to refine their search.<br>
 ![](images/browseconcerts.png)
 
-Users can enlarge concerts<br>
-(This URL uses a concert's ID)
+#### View Concert
+By clicking on a Concert card, users can enlarge other users' Concert posts to view more details.<br>
 ![](images/concertdetails.png)
 
+### Bookmarked Concerts
+Users can bookmark Concerts for future reference by clicking on the star icon within a Concert post. They can access and manage their bookmarks directly on this page.<br>
+
+### Contact Form
+The contact form serves as a convenient and secure means for users to reach out to our team. By filling out the form, users can submit inquiries, feedback, or requests.<br>
+
 ### Admin Home Page
-More admin features will be added in the future.<br>
-(Note: you must be logged in as an admin to access this page)<br>
-[/adminhome](https://campus-concert.com/adminhome)
+The admin home page displays an interface that offers easy navigation to various admin-exclusive functionalities.<br>
 ![](images/adminhome.png)
+
+### Admin: Browse Profiles and Concerts
+These pages are nearly identical to user-side Browse Profiles and Browse Concerts pages. However, administrators have the authority to edit details for all user profiles and Concert posts.<br>
+
+### View User Comments
+The View User Comments page is the designated space where administrators can access and review the contact form submissions.<br>
 
 ## Developer Guide
 
